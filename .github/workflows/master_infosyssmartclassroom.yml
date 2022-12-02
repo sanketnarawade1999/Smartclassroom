@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'InfosysSmartClassroom'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E510844C9B8547738FDFACD22612ACBF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B3B6F512A86D407C9C58F79085EAFF55 }}
